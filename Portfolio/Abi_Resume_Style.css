@@ -1,0 +1,103 @@
+#details {
+  font-size: 18px;
+  font-family: "Times New Roman";
+  font-weight: bold;
+  text-align: center;
+  text-transform: uppercase;
+}
+#Address {
+  font-size: 15px;
+  font-family: "Times New Roman";
+  text-align: center;
+}
+#mail {
+  font-size: 15px;
+  font-family: "Times New Roman";
+  text-align: center;
+}
+h2 {
+  font-size: 18px;
+  font-family: "Times New Roman";
+  padding: 10px;
+  padding-left: 50px;
+  background-color: aqua;
+  text-transform: uppercase;
+}
+li {
+  font-size: 15px;
+  font-family: "Times New Roman";
+  text-transform: uppercase;
+  margin-left: 25px;
+}
+li:first-child {
+  font-weight: bold;
+  font-size: 15px;
+  list-style: none;
+  margin-left: 25px;
+  padding-bottom: 10px;
+}
+p {
+  padding-left: 50px;
+}
+#clg {
+  list-style: disc;
+  font-weight: normal;
+  font-size: 15px;
+  font-family: "Times New Roman";
+}
+#sch {
+  list-style: disc;
+  font-weight: normal;
+  font-size: 15px;
+  font-family: "Times New Roman";
+}
+#schl {
+  list-style: disc;
+  font-weight: normal;
+  font-size: 15px;
+  font-family: "Times New Roman";
+}
+#one {
+  list-style: disc;
+  font-weight: normal;
+  font-size: 15px;
+  font-family: "Times New Roman";
+}
+#two {
+  list-style: disc;
+  font-weight: normal;
+  font-size: 15px;
+  font-family: "Times New Roman";
+  margin-left: 25px;
+}
+#three {
+  list-style: disc;
+  font-weight: normal;
+  font-size: 15px;
+  font-family: "Times New Roman";
+  margin-left: 25px;
+}
+#four {
+  list-style: disc;
+  font-weight: normal;
+  font-size: 15px;
+  font-family: "Times New Roman";
+  margin-left: 25px;
+  padding: 0px;
+}
+#five {
+  list-style: disc;
+  font-weight: normal;
+  font-size: 15px;
+  font-family: "Times New Roman";
+  margin-left: 25px;
+  padding: 0px;
+}
+#six {
+  list-style: disc;
+  font-weight: normal;
+  font-size: 15px;
+  font-family: "Times New Roman";
+  margin-left: 25px;
+  padding: 0px;
+}
